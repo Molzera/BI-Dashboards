@@ -1,0 +1,14 @@
+# BI-Dashboards
+Power BI Dashboards - created to learn data tools and Power BI 
+
+links to projects below
+
+https://app.powerbi.com/view?r=eyJrIjoiNGU1ZDMxNDQtMDAzNS00YTIyLWE4ZjAtNDZjNmI0ZmEwYjIxIiwidCI6IjE5NGQ1YzlkLTc1NjktNDZhNS1hMTAyLWU3M2UwM2VlMTM2YyJ9&pageName=ReportSection
+
+https://app.powerbi.com/view?r=eyJrIjoiMGYwYjVhOTEtN2RkMC00YjVmLWI1OWYtZDk4YjhkMDIzYjk4IiwidCI6IjE5NGQ1YzlkLTc1NjktNDZhNS1hMTAyLWU3M2UwM2VlMTM2YyJ9&pageName=ReportSection
+
+https://app.powerbi.com/view?r=eyJrIjoiMTQ4NWJhODQtYmJjNC00M2QyLTg5MzQtMzllNDczZWNkODkwIiwidCI6IjE5NGQ1YzlkLTc1NjktNDZhNS1hMTAyLWU3M2UwM2VlMTM2YyJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiNWZhM2U2YTUtMzVhNy00NWNhLWEyNWItZDU3YzY2ODQ4Y2M0IiwidCI6IjE5NGQ1YzlkLTc1NjktNDZhNS1hMTAyLWU3M2UwM2VlMTM2YyJ9
+
+https://app.powerbi.com/view?r=eyJrIjoiZTc3NmQ4ODYtNjI1NS00M2Q1LWIxMWEtOWY3ODFlNzMxOGJlIiwidCI6IjE5NGQ1YzlkLTc1NjktNDZhNS1hMTAyLWU3M2UwM2VlMTM2YyJ9
